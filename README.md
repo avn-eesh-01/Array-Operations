@@ -12,4 +12,4 @@ This repository contains some simple operations that can be performed on arrays.
    At the end, the element gets inserted at the given location by the use of for loop.
 3. Deletion of elements from the desired position:
    After entering the elements, the user is asked the position of the element they want to delete.
-   After the position is entered , the element gets deleted and the updated array is displayed.
+   After the position is entered , the element gets deleted and the updated array is displayed along with the deleted element.
